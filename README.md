@@ -1,6 +1,6 @@
 # auto-screenhots
 
-Calling webkit2png](https://github.com/paulhammond/webkit2png/) in a loop and taking the secreenshots of a website at regular intervals (time between screenshots can be given by the user as argument)
+Calling [webkit2png](https://github.com/paulhammond/webkit2png/) in a loop and taking the secreenshots of a website at regular intervals (time between screenshots can be given by the user as argument)
 
 ## Getting Started
 
