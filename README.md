@@ -10,4 +10,8 @@ Just run the script with the website name as argument
  
 ```python screenshot.py http://www.google.com```
 
+## Use cases
+
+* Can be used with Dynamic webpages which keep on changing at regular intervals.
+
 
